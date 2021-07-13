@@ -1,0 +1,22 @@
+{
+  "rtblogs": [
+    {
+      "id": 101,
+      "title": "C# Corner",
+      "description": "https://www.c-sharpcorner.com/members/rajendra-taradale3",
+      "published": false
+    },
+    {
+      "title": "WordPress",
+      "description": "https://rajendrataradale.wordpress.com",
+      "published": true,
+      "id": 102
+    },
+    {
+      "title": "Linked In",
+      "description": "https://www.linkedin.com/in/rajendra-taradale",
+      "published": false,
+      "id": 103
+    }
+  ]
+}
