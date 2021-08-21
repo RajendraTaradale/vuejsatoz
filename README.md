@@ -11,4 +11,4 @@ It's all about vue js demo/poc, blogs and useful links
 
 📙 https://github.com/RajendraTaradale/vue-invoice-app  - CRUD (create, read, update & delete) invoice app using Vue 3, Vuex & Firebase
 
-https://flaviocopes.com/vue-cheat-sheet/#global-configuration-of-the-vue-object
+📙 https://flaviocopes.com/vue-cheat-sheet/#global-configuration-of-the-vue-object
