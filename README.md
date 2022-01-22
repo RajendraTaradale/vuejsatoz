@@ -13,5 +13,7 @@ It's all about vue js demo/poc, blogs and useful links
 
 📙 https://flaviocopes.com/vue-cheat-sheet/#global-configuration-of-the-vue-object
 
+🔖 https://github.com/thecodeholic/laravel-vue-survey
+
 https://github.com/RajendraTaradale/vue-modular-architecture
 https://github.com/ErikCH/Nuxt3BetaTutorial
