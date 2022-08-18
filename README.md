@@ -1,6 +1,8 @@
 # 📁 vuejsatoz
 It's all about vue js demo/poc, blogs and useful links
 
+📙 https://github.com/jaspecla/msal-vue-demo - MSAL & MSAL2 Authentication 
+
 📙 https://github.com/RajendraTaradale/SignalRWithVue
 
 📙 https://github.com/RajendraTaradale/vue-data-tables
